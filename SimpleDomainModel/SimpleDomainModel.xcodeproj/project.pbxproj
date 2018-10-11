@@ -143,6 +143,7 @@
 				TargetAttributes = {
 					FE6891131CB5D8E40018C340 = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 2R6U9X846F;
 						LastSwiftMigration = 0800;
 					};
 					FE6891211CB5D90B0018C340 = {
@@ -293,6 +294,7 @@
 		FE68911C1CB5D8E40018C340 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 2R6U9X846F;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -301,6 +303,7 @@
 		FE68911D1CB5D8E40018C340 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 2R6U9X846F;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
